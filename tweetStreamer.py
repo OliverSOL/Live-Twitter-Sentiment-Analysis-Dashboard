@@ -14,10 +14,10 @@ from unidecode import unidecode
 keyword = ['#Amazon']
 
 # ----------Twitter credentials for authentication------------#
-consumer_key = "IpkgiGh6OYKI7lLEIOV00aJ9h"
-consumer_secret = "7FTOQRuun5WDvA90Icuu9Dfvl4ijgQaLz46ANZC8giAodAlFaj"
-access_token = "2627438079-Rf6fd3PoC5xqMFbGjujIth8nVSTr2Vmt8ddK4W8"
-access_token_secret = "InjiQeeGpdYhPB6D8DApchE3Ll9d71Ob1BdyrgI8uJ9YZ"
+consumer_key = "_____________"
+consumer_secret = "______________"
+access_token = "_____________________"
+access_token_secret = "___________________"
 
 # ------------creating table to store tweet data---------------- #
 conn = sqlite3.connect('StreamingDB.db')
