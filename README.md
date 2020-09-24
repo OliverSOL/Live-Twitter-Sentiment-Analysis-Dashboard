@@ -15,6 +15,6 @@ From personal experience, users are paid to pin ads at the top of the comment se
 
 
 
-Now a' days, having some of your content go viral might lead to having small partnerships with businesses that can exponentially grow. This is part of a full on trend in which businesses, big and small, utilize social media to grow their brand, take sports apparel brand Gym Shark, just valued at $1.3Bn. Or take Tik Tok star Charli D'Amelio who now has a successful partnership with Dunkin Donuts.
+Now a' days, having your content go viral might lead to small partnerships with businesses that can exponentially grow. This is part of a full on trend in which businesses, big and small, utilize social media to grow their brand, take sports apparel brand Gym Shark, just valued at $1.3Bn. Or take Tik Tok star Charli D'Amelio who now has a successful partnership with Dunkin Donuts.
 
 Last Edited: Sept 2020
