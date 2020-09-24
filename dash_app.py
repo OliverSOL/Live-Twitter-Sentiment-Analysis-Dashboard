@@ -29,11 +29,6 @@ app_color = {
     "graph_line": "rgb(8, 70, 151)",
     "graph_font":"rgb(2, 29, 65)"}
 
-table_header_style = {
-    "backgroundColor": "rgb(2,21,70)",
-    "color": "white",
-    "textAlign": "center",
-}
 
 #--------------Configuring Dash App---------------------------------#
 app = dash.Dash(__name__)
