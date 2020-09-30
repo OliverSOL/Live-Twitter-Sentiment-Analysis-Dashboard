@@ -11,7 +11,7 @@ Businesses are using Twitter, specifically viral tweets, to increase traffic to 
 
 
 
-From personal experience, users are paid to pin ads at the top of the comment section of their viral tweets in exchange for a free product or a discount. Amazon is the largest e-commerce company and 22% of their traffic is attributed to its affiliate program, which comes from off the site. Businesses that reach out to 'Amazon influencers' can market their products to individuals that are already within their same niche increasing the possibility of a sale and hence, increasing their bottom line. 
+From personal experience I know that users are paid to pin ads at the top of the comment section of their viral tweets in exchange for a free product or a discount. Amazon is the largest e-commerce company and 22% of their traffic is attributed to its affiliate program, which comes from off the site. Businesses that reach out to 'Amazon influencers' can market their products to individuals that are already within their same niche increasing the possibility of a sale and hence, increasing their bottom line. 
 
 
 
