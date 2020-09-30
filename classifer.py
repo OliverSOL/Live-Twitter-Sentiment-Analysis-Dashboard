@@ -1,3 +1,4 @@
+#SOLyktv
 # classifies tweets based on sentiment val
 from api import fetchTweets
 
